@@ -1,0 +1,7 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+fask_project/venv/
+python_for_web/venv/
