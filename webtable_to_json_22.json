@@ -1,0 +1,114 @@
+{
+    "url": "https://archive.ics.uci.edu/dataset/186/wine+quality",
+    "title": "UCI Machine Learning Repository",
+    "stats": [
+        [
+            [
+                "Variable Name",
+                "Role",
+                "Type",
+                "Description",
+                "Units",
+                "Missing Values"
+            ],
+            [
+                "fixed_acidity",
+                "Feature",
+                "Continuous",
+                "",
+                "",
+                "no"
+            ],
+            [
+                "volatile_acidity",
+                "Feature",
+                "Continuous",
+                "",
+                "",
+                "no"
+            ],
+            [
+                "citric_acid",
+                "Feature",
+                "Continuous",
+                "",
+                "",
+                "no"
+            ],
+            [
+                "residual_sugar",
+                "Feature",
+                "Continuous",
+                "",
+                "",
+                "no"
+            ],
+            [
+                "chlorides",
+                "Feature",
+                "Continuous",
+                "",
+                "",
+                "no"
+            ],
+            [
+                "free_sulfur_dioxide",
+                "Feature",
+                "Continuous",
+                "",
+                "",
+                "no"
+            ],
+            [
+                "total_sulfur_dioxide",
+                "Feature",
+                "Continuous",
+                "",
+                "",
+                "no"
+            ],
+            [
+                "density",
+                "Feature",
+                "Continuous",
+                "",
+                "",
+                "no"
+            ],
+            [
+                "pH",
+                "Feature",
+                "Continuous",
+                "",
+                "",
+                "no"
+            ],
+            [
+                "sulphates",
+                "Feature",
+                "Continuous",
+                "",
+                "",
+                "no"
+            ]
+        ],
+        [
+            [
+                "File",
+                "Size"
+            ],
+            [
+                "winequality-white.csv",
+                "258.2 KB"
+            ],
+            [
+                "winequality-red.csv",
+                "82.2 KB"
+            ],
+            [
+                "winequality.names",
+                "3.2 KB"
+            ]
+        ]
+    ]
+}
